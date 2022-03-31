@@ -1,2 +1,2 @@
 # Pangea
-COMP202 : Real Time Translator Web chatting platform
+COMP202 Project: Real Time Translator Web chatting platform
